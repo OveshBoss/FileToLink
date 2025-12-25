@@ -6,9 +6,9 @@
 class script(object):
     START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
     
-✏️ I Am A Advance File Stream Bot With Multiple Player Support And Url Shortner. Best Ui Performance.
+✏️ ɪ ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ғɪʟᴇ sᴛʀᴇᴀᴍ ʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪᴘʟᴇ ᴘʟᴀʏᴇʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜʀʟ sʜᴏʀᴛɴᴇʀ. ʙᴇsᴛ  ᴘᴇʀғᴏᴍᴀɴᴄᴇ.
 
-Now Send Me A Media To See Magic ✨</b>"""
+ɴᴏᴡ sᴇɴᴅ ᴍᴇ ᴀ ᴍᴇᴅɪᴀ ᴛᴏ sᴇᴇ ᴍᴀɢɪᴄ ✨</b>"""
 
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
