@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
+    START_TXT = """<b>ʜᴇʟʟᴏ ☁︎ {} 👋, ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>
     
 ✏️ ɪ ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ғɪʟᴇ sᴛʀᴇᴀᴍ ʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪᴘʟᴇ ᴘʟᴀʏᴇʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜʀʟ sʜᴏʀᴛɴᴇʀ. ʙᴇsᴛ  ᴘᴇʀғᴏᴍᴀɴᴄᴇ.
 
